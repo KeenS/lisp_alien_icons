@@ -16,7 +16,10 @@
    id="svg4125"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="lisplogo_thumb.svg">
+   sodipodi:docname="lisplogo_alien_thumb.svg"
+   inkscape:export-filename="/home/kim/Svg/alien/lisplogo_alien_thumb.png"
+   inkscape:export-xdpi="258.45999"
+   inkscape:export-ydpi="258.45999">
   <defs
      id="defs4127">
     <clipPath
@@ -128,7 +131,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="232"
+     inkscape:cx="-84"
      inkscape:cy="680"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
