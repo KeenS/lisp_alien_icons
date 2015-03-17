@@ -1,1 +1,1 @@
-public license
+public domain
