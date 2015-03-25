@@ -18,7 +18,7 @@
    inkscape:version="0.91 r"
    viewBox="0 0 64 64"
    sodipodi:docname="lisplogo_alien_ng.svg"
-   inkscape:export-filename="/home/kim/lisplogo_alien_ng.png"
+   inkscape:export-filename="/home/kim/Svg/alien/lisplogo_alien_ng.png"
    inkscape:export-xdpi="258.45999"
    inkscape:export-ydpi="258.45999">
   <defs
@@ -283,8 +283,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.1720354"
-     inkscape:cx="26.4953"
-     inkscape:cy="42.151213"
+     inkscape:cx="8.6294939"
+     inkscape:cy="40.927528"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
@@ -304,7 +304,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
