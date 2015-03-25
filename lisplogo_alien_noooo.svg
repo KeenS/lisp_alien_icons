@@ -123,9 +123,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="-797.5864"
-     inkscape:cy="204.68037"
+     inkscape:zoom="4"
+     inkscape:cx="12.4136"
+     inkscape:cy="14.68037"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -139,7 +139,14 @@
      inkscape:window-height="747"
      inkscape:window-x="0"
      inkscape:window-y="21"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="12.25,26.5"
+       orientation="0,1"
+       id="guide3486" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5921">
     <rdf:RDF>
@@ -187,12 +194,6 @@
        id="path5924"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csscszccccccsscsscc" />
-    <path
-       style="fill:#a02c2c;fill-rule:evenodd;stroke:#3e7e42;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 17.335296,1030.6985 c 0,0 2.85769,-11.1517 7.57143,-10.8571 4.571425,0.2857 7.285715,10.4286 7.285715,10.4286 0,0 -4.05493,9.0526 -7,9.1428 -2.945075,0.09 -7.857145,-8.7143 -7.857145,-8.7143 z"
-       id="path5930"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csczc" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6500"
@@ -238,12 +239,22 @@
            x="-76.5"
            y="20"
            style="font-size:30px" /></flowRegion><flowPara
-         id="flowPara6538">(</flowPara></flowRoot>    <path
-       style="fill:#ff0000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 18.875,1033.2372 c 0,0 2.5,-3.75 6,-3.75 3.5,0 5.625,4.125 5.625,4.125 0,0 -3.5,6.375 -5.75,5.75 -2.25,-0.625 -5.875,-6.125 -5.875,-6.125 z"
-       id="path4680"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cscsc" />
+         id="flowPara6538">(</flowPara></flowRoot>    <g
+       id="g3482"
+       transform="translate(0,8.75)">
+      <path
+         sodipodi:nodetypes="csczc"
+         inkscape:connector-curvature="0"
+         id="path5930"
+         d="m 17.335296,1030.6985 c 0,0 2.85769,-11.1517 7.57143,-10.8571 4.571425,0.2857 7.285715,10.4286 7.285715,10.4286 0,0 -4.05493,9.0526 -7,9.1428 -2.945075,0.09 -7.857145,-8.7143 -7.857145,-8.7143 z"
+         style="fill:#a02c2c;fill-rule:evenodd;stroke:#3e7e42;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cscsc"
+         inkscape:connector-curvature="0"
+         id="path4680"
+         d="m 18.875,1033.2372 c 0,0 2.5,-3.75 6,-3.75 3.5,0 5.625,4.125 5.625,4.125 0,0 -3.5,6.375 -5.75,5.75 -2.25,-0.625 -5.875,-6.125 -5.875,-6.125 z"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
     <path
        style="fill:#a3f590;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 28.75,998.3622 c 0,0 -0.5,3.625 0.375,9.25 0.875,5.625 1.5,8.875 1.5,8.875 0,0 -0.25,2.375 1.375,5 1.625,2.625 3.016779,3.4263 3.875,5.25 1,2.125 1.625,2.375 1.625,3.625 0,2.5125 -0.654714,1.8561 -1.5,4.875 -0.875,3.125 -1.5,2.625 -1.625,4.625 -0.180857,2.8937 -0.375,0.875 0.25,3.875 0.625,3 1.125,3.25 2,5.875 0.910014,2.73 0,0.25 0.875,2 0.875,1.75 0.625,1.5 0.625,1.5 l -2.875,0.125 c 0,0 0.375,-1 -0.5,-4.875 -0.875,-3.875 -1.375,-4.125 -1.625,-6.5 -0.277587,-2.6371 -0.375,-4.125 1.125,-7.125 1.5,-3 1,-2.25 1.25,-4 0.25,-1.75 -1.875,-4.5 -3,-6.375 -1.125,-1.875 -2,-1.375 -2.5,-3.875 -0.5,-2.5 -0.875,-1.625 -1.25,-4.625 -0.375,-3 -1,-6.5 -1,-9.25 0,-2.75 -2.375,-8.25 1,-8.25 z"
@@ -259,15 +270,15 @@
     <ellipse
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.64824998;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5942"
-       cx="17.763865"
-       cy="1018.4843"
+       cx="13.263865"
+       cy="1025.9844"
        rx="1.8571428"
        ry="1.9285715" />
     <ellipse
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.60000002;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path5944"
-       cx="32.263866"
-       cy="1018.5558"
+       cx="35.763866"
+       cy="1025.8058"
        rx="2.0714285"
        ry="2.1428571" />
   </g>
