@@ -14,7 +14,7 @@
    height="1052.3622047"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.91 r"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="lisplogo_alien_ok.svg"
    inkscape:export-filename="C:\home\lisplogo_alien.png"
    inkscape:export-xdpi="258.45999"
@@ -181,14 +181,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8321488"
-     inkscape:cx="259.15628"
+     inkscape:cx="141.53483"
      inkscape:cy="589.9118"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     inkscape:window-width="1366"
-     inkscape:window-height="747"
+     inkscape:window-width="3840"
+     inkscape:window-height="2096"
      inkscape:window-x="0"
-     inkscape:window-y="21"
+     inkscape:window-y="27"
      showgrid="false"
      inkscape:window-maximized="1"
      showguides="true"
@@ -196,11 +196,13 @@
     <sodipodi:guide
        position="436.64576,739.56875"
        orientation="1,0"
-       id="guide3457" />
+       id="guide3457"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="403.89733,652.78541"
        orientation="0,1"
-       id="guide3459" />
+       id="guide3459"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -492,8 +494,8 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4084"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none"
-       transform="matrix(2.051439,0,0,1.6314309,5.6008937,-225.80068)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none"
+       transform="matrix(2.051439,0,0,1.6314309,5.0550865,-213.79292)"><flowRegion
          id="flowRegion4086"><rect
            id="rect4088"
            width="58.650963"
@@ -502,5 +504,6 @@
            y="353.28833"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#800000"
            ry="0" /></flowRegion><flowPara
-         id="flowPara4090">OK</flowPara></flowRoot>  </g>
+         id="flowPara4090"
+         style="font-size:40px;line-height:1.25">OK</flowPara></flowRoot>  </g>
 </svg>
